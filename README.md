@@ -4,7 +4,7 @@
 # Conferences
 
 ## Gagner du temps en créant des extensions pour vos navigateurs
-- Devoxx 2022
+- [Devoxx 2022](https://www.youtube.com/watch?v=H85cE6PsLFs)
 - Brown Bag Lunch
 
 ## Au secours, je dois gérer la production !
